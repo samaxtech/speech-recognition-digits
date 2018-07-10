@@ -1,5 +1,3 @@
-% Wrapper for Challenge 4. This code specifies the input and output specifications
-% which the TA's use and expect for your final submission
 clear all
 
 testFolder = 'audio';
